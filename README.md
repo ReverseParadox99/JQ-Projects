@@ -1,4 +1,4 @@
-# jQuery Prohects
+# JQ-Projects
 
 ### Project 1: [LightBox](project-1)
 
